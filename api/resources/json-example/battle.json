@@ -1,0 +1,644 @@
+﻿{
+  "scenario": [
+    {
+      "cmd": "turn",
+      "from": "player"
+    },
+    {
+      "cmd": "attack",
+      "from": "player",
+      "pos": 0,
+      "avatar_id": {},
+      "damage": [
+        [
+          {
+            "to": "enemy",
+            "pos": 0,
+            "avatar_id": 1339444,
+            "hp": 8241,
+            "value": 639,
+            "element_type": 1,
+            "miss": false,
+            "size": "s"
+          }
+        ]
+      ]
+    },
+    {
+      "cmd": "set_burst_gauge",
+      "adjustments": [
+        {
+          "pos": 0,
+          "avatar_id": 224284,
+          "percent": 10
+        },
+        {
+          "pos": 1,
+          "avatar_id": 1274459,
+          "percent": 0
+        },
+        {
+          "pos": 2,
+          "avatar_id": 1274460,
+          "percent": 0
+        },
+        {
+          "pos": 3,
+          "avatar_id": 1274461,
+          "percent": 0
+        },
+        {
+          "pos": 4,
+          "avatar_id": 1274462,
+          "percent": 0
+        }
+      ]
+    },
+    {
+      "cmd": "message",
+      "category": "Consecutive Attack",
+      "name": "Nataku scored a triple attack!",
+      "effect": ""
+    },
+    {
+      "cmd": "attack",
+      "from": "player",
+      "pos": 1,
+      "avatar_id": {},
+      "damage": [
+        [
+          {
+            "to": "enemy",
+            "pos": 0,
+            "avatar_id": 1339444,
+            "hp": 6954,
+            "value": 1287,
+            "element_type": 0,
+            "miss": false,
+            "size": "m"
+          }
+        ],
+        [
+          {
+            "to": "enemy",
+            "pos": 0,
+            "avatar_id": 1339444,
+            "hp": 5692,
+            "value": 1262,
+            "element_type": 0,
+            "miss": false,
+            "size": "m"
+          }
+        ],
+        [
+          {
+            "to": "enemy",
+            "pos": 0,
+            "avatar_id": 1339444,
+            "hp": 4468,
+            "value": 1224,
+            "element_type": 0,
+            "miss": false,
+            "size": "m"
+          }
+        ]
+      ]
+    },
+    {
+      "cmd": "set_burst_gauge",
+      "adjustments": [
+        {
+          "pos": 0,
+          "avatar_id": 224284,
+          "percent": 10
+        },
+        {
+          "pos": 1,
+          "avatar_id": 1274459,
+          "percent": 30
+        },
+        {
+          "pos": 2,
+          "avatar_id": 1274460,
+          "percent": 0
+        },
+        {
+          "pos": 3,
+          "avatar_id": 1274461,
+          "percent": 0
+        },
+        {
+          "pos": 4,
+          "avatar_id": 1274462,
+          "percent": 0
+        }
+      ]
+    },
+    {
+      "cmd": "attack",
+      "from": "player",
+      "pos": 2,
+      "avatar_id": {},
+      "damage": [
+        [
+          {
+            "to": "enemy",
+            "pos": 0,
+            "avatar_id": 1339444,
+            "hp": 3418,
+            "value": 1050,
+            "element_type": 5,
+            "miss": false,
+            "size": "m"
+          }
+        ]
+      ]
+    },
+    {
+      "cmd": "set_burst_gauge",
+      "adjustments": [
+        {
+          "pos": 0,
+          "avatar_id": 224284,
+          "percent": 10
+        },
+        {
+          "pos": 1,
+          "avatar_id": 1274459,
+          "percent": 30
+        },
+        {
+          "pos": 2,
+          "avatar_id": 1274460,
+          "percent": 10
+        },
+        {
+          "pos": 3,
+          "avatar_id": 1274461,
+          "percent": 0
+        },
+        {
+          "pos": 4,
+          "avatar_id": 1274462,
+          "percent": 0
+        }
+      ]
+    },
+    {
+      "cmd": "attack",
+      "from": "player",
+      "pos": 3,
+      "avatar_id": {},
+      "damage": [
+        [
+          {
+            "to": "enemy",
+            "pos": 0,
+            "avatar_id": 1339444,
+            "hp": 2214,
+            "value": 1204,
+            "element_type": 5,
+            "miss": false,
+            "size": "m"
+          }
+        ]
+      ]
+    },
+    {
+      "cmd": "set_burst_gauge",
+      "adjustments": [
+        {
+          "pos": 0,
+          "avatar_id": 224284,
+          "percent": 10
+        },
+        {
+          "pos": 1,
+          "avatar_id": 1274459,
+          "percent": 30
+        },
+        {
+          "pos": 2,
+          "avatar_id": 1274460,
+          "percent": 10
+        },
+        {
+          "pos": 3,
+          "avatar_id": 1274461,
+          "percent": 10
+        },
+        {
+          "pos": 4,
+          "avatar_id": 1274462,
+          "percent": 0
+        }
+      ]
+    },
+    {
+      "cmd": "attack",
+      "from": "player",
+      "pos": 4,
+      "avatar_id": {},
+      "damage": [
+        [
+          {
+            "to": "enemy",
+            "pos": 0,
+            "avatar_id": 1339444,
+            "hp": 1395,
+            "value": 819,
+            "element_type": 1,
+            "miss": false,
+            "size": "s"
+          }
+        ]
+      ]
+    },
+    {
+      "cmd": "set_burst_gauge",
+      "adjustments": [
+        {
+          "pos": 0,
+          "avatar_id": 224284,
+          "percent": 10
+        },
+        {
+          "pos": 1,
+          "avatar_id": 1274459,
+          "percent": 30
+        },
+        {
+          "pos": 2,
+          "avatar_id": 1274460,
+          "percent": 10
+        },
+        {
+          "pos": 3,
+          "avatar_id": 1274461,
+          "percent": 10
+        },
+        {
+          "pos": 4,
+          "avatar_id": 1274462,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "cmd": "turn",
+      "from": "enemy"
+    },
+    {
+      "cmd": "message",
+      "category": "Launch Attack",
+      "name": "Gargoyle activated Water Kick!",
+      "effect": ""
+    },
+    {
+      "cmd": "burst",
+      "name": "Water Kick",
+      "from": "enemy",
+      "pos": 0,
+      "avatar_id": 1339444
+    },
+    {
+      "cmd": "damage",
+      "animation_resource_type": "burst",
+      "animation_type": "multi_simultaneous",
+      "animation_id": 93,
+      "from": "enemy",
+      "pos": 0,
+      "avatar_id": 1339444,
+      "damage": [
+        [
+          {
+            "to": "player",
+            "pos": 0,
+            "avatar_id": 224284,
+            "hp": 1206,
+            "value": 296,
+            "element_type": 3,
+            "miss": false,
+            "size": "l"
+          },
+          {
+            "to": "player",
+            "pos": 1,
+            "avatar_id": 1274459,
+            "hp": 1097,
+            "value": 206,
+            "element_type": 3,
+            "miss": false,
+            "size": "m"
+          },
+          {
+            "to": "player",
+            "pos": 2,
+            "avatar_id": 1274460,
+            "hp": 1527,
+            "value": 210,
+            "element_type": 3,
+            "miss": false,
+            "size": "m"
+          },
+          {
+            "to": "player",
+            "pos": 3,
+            "avatar_id": 1274461,
+            "hp": 1403,
+            "value": 225,
+            "element_type": 3,
+            "miss": false,
+            "size": "m"
+          },
+          {
+            "to": "player",
+            "pos": 4,
+            "avatar_id": 1274462,
+            "hp": 1144,
+            "value": 308,
+            "element_type": 3,
+            "miss": false,
+            "size": "l"
+          }
+        ]
+      ]
+    },
+    {
+      "cmd": "set_burst_gauge",
+      "adjustments": [
+        {
+          "pos": 0,
+          "avatar_id": 224284,
+          "percent": 18
+        },
+        {
+          "pos": 1,
+          "avatar_id": 1274459,
+          "percent": 37
+        },
+        {
+          "pos": 2,
+          "avatar_id": 1274460,
+          "percent": 15
+        },
+        {
+          "pos": 3,
+          "avatar_id": 1274461,
+          "percent": 15
+        },
+        {
+          "pos": 4,
+          "avatar_id": 1274462,
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "cmd": "set_enemy_charge_turn",
+      "pos": 0,
+      "avatar_id": 1339444,
+      "count": 1,
+      "max": 2
+    },
+    {
+      "cmd": "message",
+      "category": "Consecutive Attack",
+      "name": "Golem scored a double attack!",
+      "effect": ""
+    },
+    {
+      "cmd": "attack",
+      "from": "enemy",
+      "pos": 1,
+      "avatar_id": {},
+      "damage": [
+        [
+          {
+            "to": "player",
+            "pos": 4,
+            "avatar_id": 1274462,
+            "hp": 823,
+            "value": 321,
+            "element_type": 3,
+            "miss": false,
+            "size": "l"
+          }
+        ],
+        [
+          {
+            "to": "player",
+            "pos": 4,
+            "avatar_id": 1274462,
+            "hp": 498,
+            "value": 325,
+            "element_type": 3,
+            "miss": false,
+            "size": "l"
+          }
+        ]
+      ]
+    },
+    {
+      "cmd": "set_burst_gauge",
+      "adjustments": [
+        {
+          "pos": 0,
+          "avatar_id": 224284,
+          "percent": 18
+        },
+        {
+          "pos": 1,
+          "avatar_id": 1274459,
+          "percent": 37
+        },
+        {
+          "pos": 2,
+          "avatar_id": 1274460,
+          "percent": 15
+        },
+        {
+          "pos": 3,
+          "avatar_id": 1274461,
+          "percent": 15
+        },
+        {
+          "pos": 4,
+          "avatar_id": 1274462,
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "cmd": "set_enemy_charge_turn",
+      "pos": 1,
+      "avatar_id": 1339445,
+      "count": 1,
+      "max": 2
+    }
+  ],
+  "status": {
+    "party_members": [
+      {
+        "id": 1,
+        "name": "Lancelot",
+        "hp": 1206,
+        "max_hp": 1502,
+        "avatar_type": "job",
+        "burst": 18,
+        "is_burst_banned": false,
+        "status_effects": []
+      },
+      {
+        "id": 6045,
+        "name": "Nataku",
+        "hp": 1097,
+        "max_hp": 1303,
+        "avatar_type": "character",
+        "burst": 37,
+        "is_burst_banned": false,
+        "status_effects": []
+      },
+      {
+        "id": 3,
+        "name": "Sol",
+        "hp": 1527,
+        "max_hp": 1737,
+        "avatar_type": "character",
+        "burst": 15,
+        "is_burst_banned": false,
+        "status_effects": []
+      },
+      {
+        "id": 5106,
+        "name": "Lugh",
+        "hp": 1403,
+        "max_hp": 1628,
+        "avatar_type": "character",
+        "burst": 15,
+        "is_burst_banned": false,
+        "status_effects": []
+      },
+      {
+        "id": 5049,
+        "name": "Asherah",
+        "hp": 498,
+        "max_hp": 1452,
+        "avatar_type": "character",
+        "burst": 38,
+        "is_burst_banned": false,
+        "status_effects": []
+      },
+      {
+        "id": 6114,
+        "name": "[Passion Seeker] Atalanta",
+        "hp": 1134,
+        "max_hp": 1134,
+        "avatar_type": "character",
+        "burst": 0,
+        "is_burst_banned": false,
+        "status_effects": []
+      },
+      {
+        "id": 6009,
+        "name": "Uranus",
+        "hp": 1454,
+        "max_hp": 1454,
+        "avatar_type": "character",
+        "burst": 0,
+        "is_burst_banned": false,
+        "status_effects": []
+      }
+    ],
+    "ability_turns": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "ability_bans": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "ability_not_satisfied": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "burst_bans": [],
+    "summon_turns": [
+      6,
+      8,
+      5,
+      8,
+      8,
+      7,
+      0
+    ],
+    "enemies": [
+      {
+        "status_effects": []
+      },
+      {
+        "status_effects": []
+      }
+    ],
+    "cure_items": [
+      {
+        "id": 1,
+        "name": "Potion",
+        "count": 0,
+        "range": "one",
+        "physical_name": "cure-bottle"
+      },
+      {
+        "id": 2,
+        "name": "Super Potion",
+        "count": 0,
+        "range": "all",
+        "physical_name": "cure-medic"
+      },
+      {
+        "id": 3,
+        "name": "Elixir",
+        "count": 0,
+        "range": "all",
+        "physical_name": "elixir"
+      }
+    ]
+  },
+  "turn": 1
+}

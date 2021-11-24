@@ -1,0 +1,247 @@
+﻿{
+  "points_gained": {
+    "rank": 300,
+    "experience": 400
+  },
+  "gems_gained": {
+    "monsters_slain": 20,
+    "prizes": 0,
+    "converts": 0,
+    "total": 20
+  },
+  "items_gained": [
+    {
+      "id": 93,
+      "treasure_type": "item",
+      "name": "Ionized Ore",
+      "box_type": "bronze",
+      "amount": 1
+    },
+    {
+      "id": 93,
+      "treasure_type": "item",
+      "name": "Ionized Ore",
+      "box_type": "bronze",
+      "amount": 1
+    },
+    {
+      "id": 110,
+      "treasure_type": "summon",
+      "name": "Mimic",
+      "box_type": "bronze",
+      "amount": 1,
+      "element_type": 3,
+      "rare": "N",
+      "bonus": 0
+    },
+    {
+      "id": 166,
+      "treasure_type": "weapon",
+      "name": "Pendulum",
+      "box_type": "bronze",
+      "amount": 1,
+      "element_type": 3,
+      "rare": "N",
+      "bonus": 0
+    },
+    {
+      "id": 160,
+      "treasure_type": "weapon",
+      "name": "Bolt Halberd",
+      "box_type": "bronze",
+      "amount": 1,
+      "element_type": 3,
+      "rare": "N",
+      "bonus": 0
+    },
+    {
+      "id": 166,
+      "treasure_type": "weapon",
+      "name": "Pendulum",
+      "box_type": "bronze",
+      "amount": 1,
+      "element_type": 3,
+      "rare": "N",
+      "bonus": 0
+    },
+    {
+      "id": 157,
+      "treasure_type": "weapon",
+      "name": "Gladius",
+      "box_type": "bronze",
+      "amount": 1,
+      "element_type": 3,
+      "rare": "N",
+      "bonus": 0
+    }
+  ],
+  "supporter": {
+    "a_player_id": 625737,
+    "job_id": 13,
+    "summon_id": 4,
+    "name": "Nemesis",
+    "rank": 19,
+    "can_friend_request": false,
+    "summon_name": "Tempest Dragoon"
+  },
+  "job": {
+    "job_id": 1,
+    "level_data_before": {
+      "level": 20,
+      "gauge": 100,
+      "max": true
+    },
+    "level_data_after": {
+      "level": 20,
+      "gauge": 100,
+      "max": true
+    },
+    "element_type": 1
+  },
+  "player": {
+    "rank_data_before": {
+      "level": 20,
+      "gauge": 91,
+      "max": false
+    },
+    "rank_data_after": {
+      "level": 21,
+      "gauge": 0,
+      "max": false
+    }
+  },
+  "characters": [
+    {
+      "character_id": 6045,
+      "level_data_before": {
+        "level": 37,
+        "gauge": 80,
+        "max": false
+      },
+      "level_data_after": {
+        "level": 37,
+        "gauge": 96,
+        "max": false
+      },
+      "element_type": 0,
+      "rare": "SR",
+      "bonus": 0,
+      "is_aroused": false
+    },
+    {
+      "character_id": 3,
+      "level_data_before": {
+        "level": 40,
+        "gauge": 0,
+        "max": false
+      },
+      "level_data_after": {
+        "level": 40,
+        "gauge": 13,
+        "max": false
+      },
+      "element_type": 5,
+      "rare": "SSR",
+      "bonus": 0,
+      "is_aroused": false
+    },
+    {
+      "character_id": 5106,
+      "level_data_before": {
+        "level": 40,
+        "gauge": 0,
+        "max": false
+      },
+      "level_data_after": {
+        "level": 40,
+        "gauge": 13,
+        "max": false
+      },
+      "element_type": 5,
+      "rare": "SSR",
+      "bonus": 0,
+      "is_aroused": false
+    },
+    {
+      "character_id": 5049,
+      "level_data_before": {
+        "level": 35,
+        "gauge": 70,
+        "max": false
+      },
+      "level_data_after": {
+        "level": 35,
+        "gauge": 89,
+        "max": false
+      },
+      "element_type": 1,
+      "rare": "SSR",
+      "bonus": 0,
+      "is_aroused": false
+    },
+    {
+      "character_id": 6114,
+      "level_data_before": {
+        "level": 23,
+        "gauge": 97,
+        "max": false
+      },
+      "level_data_after": {
+        "level": 24,
+        "gauge": 35,
+        "max": false
+      },
+      "element_type": 0,
+      "rare": "SR",
+      "bonus": 0,
+      "is_aroused": false
+    },
+    {
+      "character_id": 6009,
+      "level_data_before": {
+        "level": 36,
+        "gauge": 20,
+        "max": false
+      },
+      "level_data_after": {
+        "level": 36,
+        "gauge": 38,
+        "max": false
+      },
+      "element_type": 5,
+      "rare": "SR",
+      "bonus": 0,
+      "is_aroused": false
+    }
+  ],
+  "quest_cleared": [],
+  "rank_up": {
+    "ap_before": 39,
+    "ap_after": 40,
+    "hp_increase": 8,
+    "job_points_gained": 30,
+    "job_points_total": 600
+  },
+  "master_point": {
+    "before": {
+      "level": 0,
+      "gauge": 57,
+      "max": false
+    },
+    "after": {
+      "level": 0,
+      "gauge": 58,
+      "max": false
+    }
+  },
+  "retry_info": {
+    "quest_title": "Water Ruins",
+    "event_id": null,
+    "episode_num": 1,
+    "recommended_element_type": 2,
+    "owner_account_id": 9694649,
+    "quest_id": 15,
+    "is_raid": false,
+    "is_own_raid": false
+  }
+}
